@@ -5,7 +5,7 @@ description 'QB-Pawnshop'
 version '1.2.0'
 
 shared_scripts {
-    '@qb-core/shared/locale.lua',
+    '@core/locale.lua',
     'config.lua',
     'locales/en.lua',
     'locales/*.lua'
