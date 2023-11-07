@@ -1,5 +1,5 @@
 # qb-pawnshop
-Pawn Shop For QB-Core
+Edited QB-Core Pawn Shop To Work With [BJCORE Framework]
 
 # License
 
